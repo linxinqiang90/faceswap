@@ -9,6 +9,5 @@ pip install requirements.txt
 ```
 两组图片分别extract提取人脸
 ```
-- train
-  [论坛](https://forum.faceswap.dev/viewtopic.php?f=6&t=146)
-  [介绍](https://zhuanlan.zhihu.com/p/377418009)
+- [论坛](https://forum.faceswap.dev/viewtopic.php?f=6&t=146)
+- [介绍](https://zhuanlan.zhihu.com/p/377418009)
