@@ -10,3 +10,4 @@ pip install requirements.txt
 两组图片分别extract提取人脸
 ```
 - train
+[介绍](https://zhuanlan.zhihu.com/p/377418009)
